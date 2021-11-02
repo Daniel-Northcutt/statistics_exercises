@@ -1,1 +1,1 @@
-# statistics_exercises
+# statistics_exercises for Hopper cohort
